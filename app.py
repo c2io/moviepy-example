@@ -20,9 +20,8 @@ def cut_and_add(
         f"{from_filename},{from_second_start},{from_second_end},{total_second},{to_filename}"
     )
 
-    video_file_clip = mpe.VideoFileClip(from_filename, audio=False)
+    video_file_clip = mpe.VideoFileClip(from_filename)
     width, height = video_file_clip.size
-    video_file_sub_clip = video_file_clip.subclip(from_second_start, from_second_end)
 
     def make_frame(t):
         duration = 2
@@ -36,13 +35,19 @@ def cut_and_add(
 
         return surface.get_npimage()
 
-    video_clip = mpe.VideoClip(
-        make_frame, duration=total_second - (from_second_end - from_second_start)
+    video_clip = mpe.VideoClip(make_frame)
+
+    video = mpe.concatenate_videoclips(
+        [
+            video_file_clip.subclip(from_second_start, from_second_end),
+            video_clip.set_duration(
+                total_second - (from_second_end - from_second_start)
+            ),
+        ]
     )
 
     Path(to_filename).parent.mkdir(exist_ok=True, parents=True)
-    video = mpe.concatenate_videoclips([video_file_sub_clip, video_clip])
-    video.write_videofile(to_filename)
+    video.write_videofile(to_filename, audio=False)
 
 
 if __name__ == "__main__":
