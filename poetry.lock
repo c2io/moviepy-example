@@ -8,7 +8,7 @@ python-versions = "*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -21,7 +21,7 @@ python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -40,7 +40,7 @@ tests_no_zope = ["coverage[toml] (>=5.0.2)", "hypothesis", "pympler", "pytest (>
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -67,7 +67,7 @@ uvloop = ["uvloop (>=0.15.2)"]
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -88,7 +88,7 @@ xcb = ["xcffib (>=0.3.2)"]
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -101,7 +101,7 @@ python-versions = "*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -117,7 +117,7 @@ pycparser = "*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -133,7 +133,7 @@ unicode_backport = ["unicodedata2"]
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -146,7 +146,7 @@ python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -159,7 +159,7 @@ python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -172,7 +172,7 @@ python-versions = ">=2.6, !=3.0.*, !=3.1.*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -190,7 +190,7 @@ pyflakes = ">=2.3.0,<2.4.0"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -207,7 +207,7 @@ numpy = "*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -220,7 +220,7 @@ python-versions = ">=3.5"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -244,7 +244,7 @@ itk = ["itk"]
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -257,7 +257,7 @@ python-versions = ">=3.4"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -270,7 +270,7 @@ python-versions = "*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -290,7 +290,7 @@ dev = ["codecov (>=2.0.15)", "colorama (>=0.3.4)", "flake8 (>=3.7.7)", "tox (>=3
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -303,7 +303,7 @@ python-versions = "*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -333,7 +333,7 @@ test = ["coverage (<5.0)", "coveralls (>=1.1,<2.0)", "pytest-cov (>=2.5.1,<3.0)"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -346,7 +346,7 @@ python-versions = "*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -359,7 +359,7 @@ python-versions = ">=3.7"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -375,7 +375,7 @@ pyparsing = ">=2.0.2"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -388,7 +388,7 @@ python-versions = "!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,!=3.4.*,>=2.7"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -401,7 +401,7 @@ python-versions = ">=3.6"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -417,7 +417,7 @@ dev = ["pre-commit", "tox"]
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -433,7 +433,7 @@ tqdm = "*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -446,7 +446,7 @@ python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -459,7 +459,7 @@ python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -472,7 +472,7 @@ python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -485,7 +485,7 @@ python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -498,7 +498,7 @@ python-versions = ">=2.6, !=3.0.*, !=3.1.*, !=3.2.*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -524,7 +524,7 @@ testing = ["argcomplete", "hypothesis (>=3.56)", "mock", "nose", "requests", "xm
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -537,7 +537,7 @@ python-versions = "*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -560,7 +560,7 @@ use_chardet_on_py3 = ["chardet (>=3.0.2,<5)"]
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -573,7 +573,7 @@ python-versions = ">=2.6, !=3.0.*, !=3.1.*, !=3.2.*"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -586,7 +586,7 @@ python-versions = ">=3.6"
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -607,7 +607,7 @@ telegram = ["requests"]
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -629,7 +629,7 @@ test = ["shellingham (>=1.3.0,<2.0.0)", "pytest (>=4.4.0,<5.4.0)", "pytest-cov (
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -647,7 +647,7 @@ socks = ["PySocks (>=1.5.6,!=1.5.7,<2.0)"]
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [[package]]
@@ -663,13 +663,13 @@ dev = ["pytest (>=4.6.2)", "black (>=19.3b0)"]
 
 [package.source]
 type = "legacy"
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+url = "https://mirrors.cloud.tencent.com/pypi/simple"
 reference = "tsinghua"
 
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "1a85acb748c821c25b85e573e6f481a05234eca34d63063c7865a842cac8f625"
+content-hash = "ff341cfec0c3c0d58b43aabf5d58e1144c82d125408a49d75daaf5ead21b8b06"
 
 [metadata.files]
 appdirs = [
